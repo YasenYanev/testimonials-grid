@@ -10,4 +10,4 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: https://yasenyanev.github.io/results-summary-component/
+- Live Site URL: https://yasenyanev.github.io/testimonials-grid/
